@@ -11,6 +11,10 @@ https://ibm.biz/BdzPCj
 # More Details on Challenge
 [https://callforcode.org/challenge/](https://callforcode.org/challenge/)
 
+# Hands on 
+http://bit.ly/cfchandson
+
+
 # RESOURCES -  FOR CALL FOR CODE GLOBAL CHALLENGE 
 
 [https://developer.ibm.com/callforcode/](https://developer.ibm.com/callforcode/)
